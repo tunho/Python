@@ -6,8 +6,7 @@ input = sys.stdin.readline
 str=""
 
 
-while 1 :
- str = input()
+while 1
  if(str==".\n"):
    break
  dq = deque()
